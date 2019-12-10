@@ -23,7 +23,7 @@ public class ApplyTest extends BaseTest {
 
         ApplyPage applyPage2 = new ApplyPage(driver);
 
-        applyPage2.inputEmail("seattlevovka@gmail.com");
+        applyPage2.inputEmail("vlad@hotmail.com");
         applyPage2.inputPassword("12345678");
         applyPage2.inputfirstName("Vlad");
         applyPage2.inputlastName("Petrov");
