@@ -27,7 +27,7 @@ public class ApplyTest extends BaseTest {
         applyPage2.inputPassword("12345678");
         applyPage2.inputfirstName("Vlad");
         applyPage2.inputlastName("Petrov");
-        applyPage2.inputCellphone("425-691-7889");
+      //  applyPage2.inputCellphone("425-691-7889");
 
    //     applyPage2.clickEmail();
    //     applyPage2.clickPassword();
