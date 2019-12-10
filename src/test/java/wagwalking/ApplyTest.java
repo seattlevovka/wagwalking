@@ -26,7 +26,7 @@ public class ApplyTest extends BaseTest {
         applyPage2.inputEmail("seattlevovka@gmail.com");
         applyPage2.inputPassword("12345678");
         applyPage2.inputfirstName("Vlad");
-        applyPage2.inputlastName("Kocharov");
+        applyPage2.inputlastName("Petrov");
         applyPage2.inputCellphone("425-691-6140");
 
    //     applyPage2.clickEmail();
